@@ -85,6 +85,12 @@
             "name": "Alaa DRIDI"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:DRIDI1990/DridiAlaaSyliusSiteParserPlugin.git"
+        }
+    ]
 
 }
