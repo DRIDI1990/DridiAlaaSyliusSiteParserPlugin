@@ -1,4 +1,4 @@
 sylius_website_parser:
-  resource: "@DridiAlaaSyliusSiteParserPlugin/Controller/"
+  resource: "@DridialaaSyliusSiteParserPlugin/Controller/"
   type: annotation
   prefix: /admin/website-parser

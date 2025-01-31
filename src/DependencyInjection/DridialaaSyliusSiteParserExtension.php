@@ -35,7 +35,7 @@ final class DridialaaSyliusSiteParserExtension extends AbstractResourceExtension
 
     protected function getMigrationsDirectory(): string
     {
-        return '@DridiAlaaSyliusSiteParserPlugin/src/Migrations';
+        return '@DridialaaSyliusSiteParserPlugin/src/Migrations';
     }
 
     protected function getNamespacesOfMigrationsExecutedBefore(): array

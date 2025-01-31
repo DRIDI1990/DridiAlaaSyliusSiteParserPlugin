@@ -28,7 +28,7 @@ class WebsiteController extends AbstractController
             $this->addFlash('success', 'Website parsed and saved successfully!');
         }
 
-        return $this->render('@DridiAlaSyliusSiteParserPlugin/website/index.html.twig', [
+        return $this->render('@DridialaSyliusSiteParserPlugin/website/index.html.twig', [
             'form' => $form->createView(),
         ]);
     }
