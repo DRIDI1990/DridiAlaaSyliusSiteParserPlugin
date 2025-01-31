@@ -2,7 +2,7 @@
 
 namespace Dridialaa\SyliusSiteParserPlugin\Service;
 
-use YourVendor\SyliusWebsiteParserBundle\Entity\Website;
+use Dridialaa\SyliusSiteParserPlugin\Entity\Website;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Contracts\HttpClient\HttpClientInterface;
 
