@@ -7,7 +7,7 @@ namespace Dridialaa\SyliusSiteParserPlugin;
 use Sylius\Bundle\CoreBundle\Application\SyliusPluginTrait;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-final class DridiAlaaSyliusSiteParserPlugin extends Bundle
+final class DridialaaSyliusSiteParserPlugin extends Bundle
 {
     use SyliusPluginTrait;
 
